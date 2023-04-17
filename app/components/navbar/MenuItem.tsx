@@ -1,7 +1,7 @@
 'use client'
 
 interface MenuItemProps {
-    onClick : ()=>{};
+    onClick : ()=>void;
     label: string;
 }
 
